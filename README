@@ -1,0 +1,6 @@
+This project host a ruleset file that you can use for your configuration of maven versions plugin [http://mojo.codehaus.org/versions-maven-plugin].
+
+Read the plugin documentation : http://mojo.codehaus.org/versions-maven-plugin/version-rules.html
+
+To use directly the ruleset :
+<rulesUri>http://www.mycompany.com/maven-version-rules.xml</rulesUri>

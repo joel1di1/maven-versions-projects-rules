@@ -1,6 +1,6 @@
 <ruleset comparisonMethod="maven">
   <rules>
     <rule groupId="*.maven" comparisonMethod="mercury"/>
-    <rule groupId="hsqldb" comparisonMethod="mercury"/>
+    <rule groupId="hsqldb" artifactId="*" comparisonMethod="mercury"/>
   </rules>
 </ruleset>
